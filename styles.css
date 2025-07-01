@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+#imagen {
+  margin-top: 20px;
+  max-width: 300px;
+  max-height: 300px;
+  display: none;
+}
+
+#nombre-imagen {
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 1.2em;
+}
